@@ -4,4 +4,4 @@ dependencies:
 - pip
 - notebook
 - pip:
-- qiskit
+  - qiskit
